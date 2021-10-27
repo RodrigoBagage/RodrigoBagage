@@ -1,5 +1,5 @@
 # Hello World <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-## Welcome! I'm Rodrigo Bagage 👋
+## Welcome to my Github! I'm Rodrigo Bagage 👋
 ### I'm starting my DEV Journey.😎
 
 # About me🕵🏽‍♂️
@@ -11,7 +11,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581987801135&text=Bagage)](https://api.whatsapp.com/send?phone=5581987801135&text=Bagage) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&email=rodrigojosequeiroz@gmail.com)](https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com&service=mail)
 
          
-# - " The ideals that lit my path are goodness, beauty and truth. " - Albert Einstein
+## - " The ideals that lit my path are goodness, beauty and truth. " - Albert Einstein
 
 # Language and Tools
 
