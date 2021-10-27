@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello World <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Welcome! I'm Rodrigo Bagage 👋
+### I'm starting my DEV Journey.😎
 
-<!--
-**RodrigoBagage/RodrigoBagage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RodrigoBagage)](https://github.com/RodrigoBagage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-queiroz-461522128/)](https://www.linkedin.com/in/rodrigo-queiroz-461522128/)
+         
+- " The ideals that lit my path are goodness, beauty and truth. " - Albert Einstein
+
+# Language and Tools
+
+[![RodrigoBagage GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoBagage)](https://github.com/RodrigoBagage/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBagage)](https://github.com/RodrigoBagage/github-readme-stats)
+
+
+
+- Thanks for visiting.
+
+- Show bro 😎💙
+
