@@ -46,5 +46,8 @@
 
 - Show bro 😎💙 
 
+![Snake animation](https://github.com/RodrigoBagage/RodrigoBagage/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
