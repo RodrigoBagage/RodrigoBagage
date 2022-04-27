@@ -1,5 +1,5 @@
 # Olá Mundo <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-## Bem vindo ao meu Github! Eu sou Rodrigo Bagage! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif width="30">
+## Bem vindo (a) ao meu Github! Eu sou Rodrigo Bagage! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif width="30">
 ### Estou iniciando minha jornada DEV.😎<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif width="30"> 
 
 - 🎓 Atualmente estou estudando JavaScript;
