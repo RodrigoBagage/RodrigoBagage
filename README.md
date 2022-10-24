@@ -6,7 +6,6 @@
 - 📚 Buscando constantemente adquirir conhecimento;
 - 🌐 Estou vivendo no presente olhando para o futuro;
 - 🎨 Pergunte-me sobre músicas, filmes e séries;
-- 🧔🏽 Pronomes: ele;
 - 🎻 Curiosidade: gosto de tocar violão e cantar;
 - 📍  Recife - PE / Brasil;
 
